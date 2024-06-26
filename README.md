@@ -1,1 +1,3 @@
-# h3600_tt_root
+# TürkTelekom H3600 V9 Root 
+
+Not: Test aşamasındadır çalışabilirliği bilinmiyor
